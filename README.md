@@ -16,3 +16,5 @@ https://blog.risingstack.com/tag/advanced-node-js-tutorials/
 *****HTML/CSS,JAVASCRIPT/JQUERY,BOOTSTRAP     https://www.tutorialrepublic.com/faq.php#javascript-jquery
 
 ****JqueryDatatable  https://datatables.net/
+
+*****Modern Js   https://mbeaudru.github.io/modern-js-cheatsheet/
