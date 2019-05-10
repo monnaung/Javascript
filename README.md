@@ -11,3 +11,6 @@ https://blog.risingstack.com/mastering-async-await-in-nodejs/
 https://blog.risingstack.com/tag/advanced-node-js-tutorials/
 
 ***Clean Code  https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/
+
+
+*****HTML/CSS,JAVASCRIPT/JQUERY,BOOTSTRAP     https://www.tutorialrepublic.com/faq.php#javascript-jquery
